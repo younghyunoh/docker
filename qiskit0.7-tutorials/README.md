@@ -2,6 +2,8 @@
 - Qiskit v0.7 
 - Python v3.5 
 
+## Building a docker container image for [qiskit-tutorials](https://github.com/Qiskit/qiskit-tutorials)  
+
 ### Donwload a pre-built qiskit-tutorial image from docker hub (Young-Hyun Oh)
 $ docker pull younghyunoh/qiskit0.7-tutorials
 
