@@ -4,15 +4,15 @@
 
 ## Building a docker container image for [qiskit-tutorials](https://github.com/Qiskit/qiskit-tutorials)  
 
-### Donwload a pre-built qiskit-tutorial image from docker hub (Young-Hyun Oh)
+### 1. Donwload a pre-built qiskit-tutorial image from docker hub (Young-Hyun Oh)
 $ docker pull younghyunoh/qiskit0.7-tutorials
 
-### Create a docker image for qiskit-tutorial 
+### 2. Create a docker image for qiskit-tutorial 
 Download **Dockerfile** and **environment.yml** to your local machine.  
 $ docker build -t image_name .  
 $ docker images  
 
-### Run a container from image   
+### 3. Run a container from image   
 - Interactive Mode      
 $ docker run -it --rm --name qiskit-tutorial -p 8888:8888 younghyunoh/qiskit0.7-tutorials  
 The Jupyter Notebook is running at:  
