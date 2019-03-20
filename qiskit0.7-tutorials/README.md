@@ -8,7 +8,7 @@
 
 ## Building a docker container image for [qiskit-tutorials](https://github.com/Qiskit/qiskit-tutorials)  
 
-### 1. Donwload a pre-built qiskit-tutorial image from docker hub
+### 1. Donwload a pre-built qiskit-tutorial image from [dockerhub](https://hub.docker.com/r/younghyunoh/qiskit0.7-tutorials)
 $ docker pull younghyunoh/qiskit0.7-tutorials
 
 ### 2. Create a docker image for qiskit-tutorial 
