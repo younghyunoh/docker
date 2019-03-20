@@ -1,6 +1,10 @@
 ## QISKIT-Tutorial  
-- Qiskit v0.7 
+- Qiskit v0.7.2 
 - Python v3.5 
+- qiskit-aer v0.1.1     
+- qiskit-aqua v0.4.1     
+- qiskit-chemistry v0.4.2     
+- qiskit-terra v0.7.0  
 
 ## Building a docker container image for [qiskit-tutorials](https://github.com/Qiskit/qiskit-tutorials)  
 
