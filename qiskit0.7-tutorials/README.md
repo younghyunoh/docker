@@ -8,7 +8,7 @@
 $ docker pull younghyunoh/qiskit0.7-tutorials
 
 ### 2. Create a docker image for qiskit-tutorial 
-#### Download **Dockerfile** and **environment.yml** to your local machine.  
+:- Download **Dockerfile** and **environment.yml** to your local machine.  
 $ docker build -t image_name .  
 $ docker images  
 
